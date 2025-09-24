@@ -1,5 +1,3 @@
-# busqueda-de-articulos
-busqueda de articulos cientificos
 <!DOCTYPE html>
 <html lang="es">
 <head>
